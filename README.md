@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on chatbots and UI development<br>👯 I’m looking to collaborate on learning react<br>🤝 I’m looking for help with advanced topics about chatbots<br>🌱 I’m currently learning react<br>💬 Ask me about web scraping<br>⚡ Fun fact normally I'm a psychological counselor but I became ai's psychological counselor
+🔭 I’m currently working on chatbots<br><br>🤝 I’m looking for help with advanced topics about chatbots<br>🌱 I’m currently learning react<br>💬 Ask me about web scraping<br>⚡ Fun fact normally I'm a psychological counselor but I became ai's psychological counselor
 
 
 ## 🌐 Socials:
